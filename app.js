@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var jobRouter = require('./routes/job');
 var addModsRouter = require('./routes/addMods');
-var selectorRouter = require('./routes/selector')
+var selectorRouter = require('./routes/selector');
 
 var app = express();
 
